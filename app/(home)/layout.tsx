@@ -70,7 +70,7 @@ export default function Layout({ children }: { children: ReactNode }) {
         company={footerNavigation.company}
         legal={footerNavigation.legal}
         social={footerNavigation.social}
-        companyName="teurons"
+        companyName="metascan"
         companyDescription="I am Rajiv. I love coding and solving problems."
       />
     </HomeLayout>

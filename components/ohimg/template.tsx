@@ -8,10 +8,10 @@ import { cn } from "@/lib/utils";
 
 export const ohimgConfig: OhImgBaseTemplateProps = {
   content: {
-    title: "teurons",
+    title: "metascan",
     description:
       "work, open source projects, thoughts, ideas, commentary and opinions.",
-    website: "teurons",
+    website: "metascan",
     // tags: ["personal", "website"],
     // logoSrc: "/avatar.png",
   },

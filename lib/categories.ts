@@ -29,13 +29,13 @@ export const getCategoryBySlug = (slug: string) => {
       label: "Plans",
       icon: Lightbulb,
       description:
-        "Public brainstorming—future features, tool concepts, Teurons' direction.",
+        "Public brainstorming—future features, tool concepts, metascan' direction.",
     },
     idea: {
       label: "Idea",
       icon: Brain,
       description:
-        "Exploratory thoughts and wild concepts for Teurons and beyond.",
+        "Exploratory thoughts and wild concepts for metascan and beyond.",
     },
     "tools-tech": {
       label: "Tools Tech",
@@ -45,12 +45,13 @@ export const getCategoryBySlug = (slug: string) => {
     team: {
       label: "Team",
       icon: Users,
-      description: "Teurons' startup journey, team dynamics, Betalectic roots.",
+      description:
+        "metascan' startup journey, team dynamics, Betalectic roots.",
     },
     startup: {
       label: "Startup",
       icon: Rocket,
-      description: "Growth stories and insights from Teurons and Betalectic.",
+      description: "Growth stories and insights from metascan and Betalectic.",
     },
     opinions: {
       label: "Opinions",

@@ -6,8 +6,8 @@ export function createMetadata(override: Metadata): Metadata {
     openGraph: {
       title: override.title ?? undefined,
       description: override.description ?? undefined,
-      url: "https://teurons.com",
-      siteName: "teurons.com",
+      url: "https://metascan.teurons.com",
+      siteName: "metascan.teurons.com",
       ...override.openGraph,
     },
     twitter: {

@@ -3,10 +3,10 @@ import type { BaseLayoutProps, LinkItemType } from "fumadocs-ui/layouts/shared";
 import { WorkflowIcon } from "lucide-react";
 import Image from "next/image";
 
-export const title = "teurons";
+export const title = "metascan";
 export const description =
-  "Personal website of teurons. This is where I articulate my work, open source projects, thoughts, ideas, work, commentary and opinions.";
-export const owner = "teurons";
+  "Personal website of metascan. This is where I articulate my work, open source projects, thoughts, ideas, work, commentary and opinions.";
+export const owner = "metascan";
 /**
  * Shared layout configurations
  *
@@ -19,7 +19,7 @@ export const baseOptions: BaseLayoutProps = {
     title: (
       <>
         <WorkflowIcon />
-        Teurons
+        metascan
       </>
     ),
   },
